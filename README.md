@@ -97,6 +97,15 @@ If you're in a region where YouTube Music is not supported, you won't be able to
 - etc.
 
 <div align="center">
+<h1>iOS + Web Previews</h1>
+</div>
+
+Initial previews for an iOS SwiftUI client (iPhone 6s+ / iOS 13+) and a responsive web experience live in:
+
+- `ios/` for the SwiftUI preview of the iOS app
+- `web/` for the laptop-friendly web UI concept
+
+<div align="center">
 <h1>Translations</h1>
 
 [![Translation status](https://img.shields.io/weblate/progress/metrolist?style=for-the-badge)](https://hosted.weblate.org/engage/metrolist/)
